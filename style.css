@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica, Tahoma, "Trebuchet MS", "Times New Roman", Georgia;
+}
+
+body {
+  background-color: #f8edeb;
+}
+
+header {
+  position: relative;
+
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+}
+header div {
+  display: inline-block;
+}
+
+header .header-left {
+  left: 0;
+  right: autos;
+}
+
+header .header-right {
+  right: 0;
+}
